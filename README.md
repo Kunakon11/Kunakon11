@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello! I'm Chanon Patiphimpakhom
 
-<!--
-**Kunakon11/Kunakon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer with a love for creating efficient and scalable code. Currently working on full-stack development, focusing on both front-end and back-end technologies. I enjoy solving complex problems and learning new technologies to improve my craft.
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools:
+- **Languages:** JavaScript, Python, Java
+- **Frameworks and Libraries:** React, Node.js, Express.js
+- **Tools and Platforms:** Git, Docker, CI/CD, Linux
+- **Databases:** SQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects:
+- **[Project Name](#):** Brief description of what the project is about. (e.g., A web application for managing tasks using React and Node.js)
+- **[Another Project](#):** Brief description of what the project is about. (e.g., An e-commerce platform built with Python and Django)
+
+## 📫 How to reach me:
+- **Email:** yourname@example.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **GitHub:** [github.com/yourusername](#)
+
+## 🌱 What I'm currently learning:
+- Deepening my knowledge in cloud computing with AWS
+- Exploring advanced React and Redux patterns
+
+## 💬 Ask me about:
+- Full-stack web development
+- Building RESTful APIs
+- Modern JavaScript frameworks
+
+## ⚡ Fun fact:
+- I love solving puzzles and often participate in coding challenges for fun!
