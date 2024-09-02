@@ -21,9 +21,8 @@ I'm a passionate programmer with a love for creating efficient and scalable code
 - **[Another Project](#):** Brief description of what the project is about. (e.g., An e-commerce platform built with Python and Django)
 
 ## 📫 How to reach me:
-- **Email:** yourname@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **GitHub:** [github.com/yourusername](#)
+- **Email:** heromawin11@gmail.com
+- **GitHub:** [github.com/Kunakon11](#)
 
 ## 🌱 What I'm currently learning:
 - Deepening my knowledge in cloud computing with AWS
